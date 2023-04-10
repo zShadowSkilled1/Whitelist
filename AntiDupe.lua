@@ -1,5 +1,5 @@
 -- Define the list of whitelisted players
-local whitelist = {"", "Player2", "Player3"}
+local whitelist = {"zShadowSkiIled2A", "Player2", "Player3"}
 
 -- Get the player's name
 local playerName = game.Players.LocalPlayer.Name -- Replace with whatever method you use to get the player's name
